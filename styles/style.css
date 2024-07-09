@@ -66,8 +66,29 @@ header button{
 /* yt video styles */
 .yt-video{
     text-align: center;
+    margin-top: 50px;
 }
 .my-inspiration-title{
     font-size: 32px;
     font-weight: 800;
+}
+.yt-video-add{
+    margin-top: 40px;
+}
+/* current targets */
+.current-target{
+    margin-top: 50px;
+}
+.target-header{
+    text-align: center;
+}
+.target-header-title{
+    font-size: 32px;
+    font-weight: 800;
+}
+.target-container{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
 }
