@@ -1,7 +1,15 @@
 *{
     margin: 0px;
 }
-
+body{
+    font-family: "Azeret Mono", monospace;
+}
+/* shared styles */
+.general-paragraph{
+    margin-top: 40px;
+    color: #0D1321;
+    font-size: 16px;
+}
 /* header styles */
 .header{
     text-align: center;
@@ -18,11 +26,6 @@ header h1{
     font-size: 48px;
     font-weight: 800;
 }
-header p{
-    margin-top: 40px;
-    color: #0D1321;
-    font-size: 16px;
-}
 header button{
     margin-top: 40px;
     background-color: #0D1321;
@@ -32,4 +35,39 @@ header button{
     font-weight: 700;
     border-radius: 5px;
     border: none;
+}
+/* why development section */
+.why-dev{
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.why-dev-title-info{
+    text-align: center;
+    margin-top: 50px;
+}
+.why-dev-title{
+    font-size: 32px;
+    font-weight: 800;
+}
+.cause-1{
+    margin-top: 50px;
+    display: flex;
+    gap: 100px;
+}
+.btn-why-dev{
+    margin-top: 40px;
+    padding: 10px 20px;
+    border: 3px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
+/* yt video styles */
+.yt-video{
+    text-align: center;
+}
+.my-inspiration-title{
+    font-size: 32px;
+    font-weight: 800;
 }
