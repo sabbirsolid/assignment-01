@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+
+/* header styles */
+.header{
+    text-align: center;
+    height: 652px;
+    width: 1440px;
+    align-items: center;
+    background-image: url('../assets/Hero-bg.png');
+}
+header img{
+    margin-top: 17px;
+}
+header h1{
+    margin: 40px 177px;
+    font-size: 48px;
+    font-weight: 800;
+}
+header p{
+    margin-top: 40px;
+    color: #0D1321;
+    font-size: 16px;
+}
+header button{
+    margin-top: 40px;
+    background-color: #0D1321;
+    padding: 15px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    border: none;
+}
