@@ -88,7 +88,72 @@ header button{
 }
 .target-container{
     margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
     display: flex;
     justify-content: space-between;
     gap: 50px;
+}
+.current-target-titles{
+    margin-top: 30px;
+}
+.target-container-learn{
+    font-size: 16px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+.html{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 20px;
+    width: 364px;
+}
+.css{
+    background-color:antiquewhite;
+    border-radius: 10px;
+    padding: 20px;
+    width: 364px;
+}
+.javascript{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 20px;
+    width: 364px;
+}
+/* support section */
+.i-need-support{
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-image: url('../assets/handshake.jpg');
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.support-container{
+    padding: 50px;
+}
+.support-container-title{
+    color: white;
+    font-size: 32px;
+    font-weight: 800px;
+}
+.support-description{
+    margin-top: 40px;
+    color: white;
+    font-size: 16px;
+}
+.submit{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: none;
+}
+.input-feedback{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
 }
