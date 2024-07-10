@@ -86,7 +86,8 @@ header button{
     font-weight: 800;
 }
 .yt-video-add{
-    margin-top: 40px;
+    margin: 40px 150px;
+
 }
 /* current targets */
 .current-target{
@@ -161,16 +162,16 @@ header button{
     font-size: 16px;
 }
 .submit{
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 700;
-    padding: 10px 30px;
+    padding: 20px 50px 20px 20px;
     border-radius: 5px;
     border: none;
 }
 .input-feedback{
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 700;
-    padding: 10px 20px;
+    padding: 20px 50px 20px 20px;
     border-radius: 5px;
     border: none;
 }
