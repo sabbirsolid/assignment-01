@@ -87,7 +87,11 @@ header button{
 }
 .yt-video-add{
     margin: 40px 150px;
-
+}
+.yt-video-area{
+    border-radius: 40px;
+    border: 1px solid black;
+    padding: 20px;
 }
 /* current targets */
 .current-target{
