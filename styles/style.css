@@ -79,6 +79,7 @@ header button{
 /* yt video styles */
 .yt-video{
     text-align: center;
+    align-items: center;
     margin-top: 50px;
 }
 .my-inspiration-title{
